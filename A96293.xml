@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomas Lord Wharton, Baron of Wharton in the county of Westmorland, warden, chief-justice, and justice in eyre of all his Majesty's forests, chases, parks, and warrens, of the south side of Trent To the wardens, lieutenants, verderers, regarders, master-foresters, rangers, keepers, under-keepers, and to all and singular other the ministers and officers of his Majesty's forests, chases, parks, and warrens aforesaid, and every of them; and to all others whom these presents may concern: sendeth greeting, &amp;c.</title>
+            <author>Wharton, Thomas Wharton, Marquess of, 1648?-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96293</idno>
+            <idno type="STC">Wing W1579</idno>
+            <idno type="STC">ESTC R232206</idno>
+            <idno type="EEBO-CITATION">99900158</idno>
+            <idno type="PROQUEST">99900158</idno>
+            <idno type="VID">137414</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96293)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137414)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2537:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thomas Lord Wharton, Baron of Wharton in the county of Westmorland, warden, chief-justice, and justice in eyre of all his Majesty's forests, chases, parks, and warrens, of the south side of Trent To the wardens, lieutenants, verderers, regarders, master-foresters, rangers, keepers, under-keepers, and to all and singular other the ministers and officers of his Majesty's forests, chases, parks, and warrens aforesaid, and every of them; and to all others whom these presents may concern: sendeth greeting, &amp;c.</title>
+                  <author>Wharton, Thomas Wharton, Marquess of, 1648?-1715.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Prohibits hunting and the cutting down of trees in the King's forests.</note>
+                  <note>At end of text: "Given under my hand, and the seal of my office, this 19th day of August [in the] ninth year of the reign of our sovereign Lord William the third, by the grace of God, of England, Scotland, France and Ireland, [De]fender of the Faith, &amp;c. Annoq; Dom. 1697."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lumber --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Game laws --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:137414:1" rendition="simple:additions"/>
+            <opener>
+               <signed>THOMAS Lord WHARTON, Baron of Wharton in the
+County of Weſtmorland, Warden, Chief-Juſtice, and Juſtice in Eyre
+of all His MAJESTY's Foreſts, Chaſes, Parks, and Warrens,
+on the South ſide of Trent.</signed>
+               <salute>To the Wardens, Lieutenants, Verderers, Regarders, Maſter-Foreſters, Rangers, Keepers, Under-Keepers, and to all and
+ſingular other the Miniſters and Officers of His Majeſty's Foreſts, Chaſes, Parks, and Warrens aforeſaid, and every of them;
+and to all others whom theſe Preſents may concern: Sendeth Greeting, &amp;c.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS there hath been great Deſtruction of His Majeſty's Red and Fallow Deer, and of the Beaſts, Fowl, Fiſh,
+and Game of the Foreſts, and alſo of the Timber Trees, Coppices, and Vert, in moſt of the ſaid Places, as well in
+Breach and Contempt of the Laws of the Foreſt, as of ſeveral Statute-Laws in ſuch Caſes made and provided:
+Which, as I am credibly informed, hath happen'd not only by the Treſpaſſes and unlawful Acts of many diſorderly and
+idle Perſons living in the ſaid Foreſts, Chaſes, Parks, and Places adjacent without the leaſt Pretence or Colour of Autho<g ref="char:EOLhyphen"/>rity,
+and of others under Pretences of Licenſes and Warrants which are determined or void; but alſo by the Negli<g ref="char:EOLhyphen"/>gence
+of many of the ſaid Officers, who have connived thereat, and ſuffered the ſame to remain without due Proſecu<g ref="char:EOLhyphen"/>tions,
+unpuniſhed; and likewiſe by means of other Officers, who under Colour or Pretence of their Offices, have
+greatly tranſgreſſed, and aſſumed to themſelves Authorities to which they have no Right in Law, contrary to their
+Duties, and in direct breach of the Truſt in them repoſed, whereby they have not only forfeited their ſaid Offices, but alſo ſubjected them<g ref="char:EOLhyphen"/>ſelves
+to the other Penalties of the Law for ſuch their Miſdemeanors: And His Majeſty having ſignified to Me His Royal Pleaſure, That
+a due Reprehenſion be had of the ſaid Misbehaviours for the time paſt, as likewiſe that for the future all poſſible Care be taken for Preſerva<g ref="char:EOLhyphen"/>tion
+of His Majeſty's Game, Vert, and Veniſon, and for that purpoſe to ſee the Laws relating thereto duly executed.</p>
+            <p>NOW for Remedy thereof, and that Right may be done in the Premiſes, and for and towards the more effectual Execution of the
+ſaid Laws, and for Prevention of the like Miſchiefs in time to come, and in Obedience to His Majeſty's ſaid Commands, I do therefore
+hereby Order, and ſtrictly Charge and Command all and every the ſaid Officers, of what Degree or Quality ſoever, That they and every of
+them be diligent and faithful in their ſeveral and reſpective Stations, and in the Diſcharge and Execution of their ſeveral and reſpective Duties
+and Offices, as they tender His Majeſty's Service, or will anſwer the ſame at their Perils: And that they, as far as in them lies, take all poſſi<g ref="char:EOLhyphen"/>ble
+Care for the diſcovering, finding, apprehending, preſenting, proſecuting, and puniſhing of the ſaid Offenders, either by the Rules and
+Methods of the Laws of the Foreſt, or of the ſaid Acts of Parliament; and that they ſee the ſame from time to time duly executed. And
+that they, or any of them, do not uſurp or aſſume to themſelves, or exerciſe any Authority or Power over or concerning His Majeſty's ſaid
+Timber-Trees, Coppices, Red or Fallow-Deer, or other Beaſts of the Foreſt, Fowl, Fiſh, or other His Majeſty's Game, which by Law
+they ought not to do. And that they do not take upon them to make any Grants, or give any Warrants or Directions for or towards the cut<g ref="char:EOLhyphen"/>ting
+of the ſaid Woods, or killing, taking, or deſtroying of the ſaid Beaſts, Fowl, or Fiſh.</p>
+            <p>And I do further and more particularly will and require all and every the ſaid Officers in their ſeveral and reſpective Places, that they
+do not permit or ſuffer any Perſon or Perſons, of what Quality ſoever, to Hunt, Hawk, Courſe ſhoot, take, kill or deſtroy any Deer, Phea<g ref="char:EOLhyphen"/>ſants,
+Partridges, Hares, Fowl, Fiſh, or other Game within the ſaid Foreſts, Chaſes, Parks, Warrens, or the Purlieus or Precincts thereof,
+excepting only Peers of the Realm, in their coming to, and returning from the Parliament, to hunt in a Foreſt, according to the Statute in
+that Caſe, and under the Reſtrictions therein expreſſed, and ſuch other Perſons as have Right ſo to do by the Laws of the Foreſt, or par<g ref="char:EOLhyphen"/>ticular
+Grants of the ſame; and excepting ſuch Perſons to whom I have already granted, or ſhall hereafter grant Licenſes of Pleaſure; for
+the better certainty whereof I do declare, That no Licenſes to be by me granted ſhall be of any effect in any Foreſt, unleſs the ſame be
+entred at the Court to be held for that Foreſt next after the date thereof: And that no Licenſes by me already granted ſhall be of any
+Effect, unleſs the ſame be entred at the Court to be next held after publication hereof.</p>
+            <p>And I do further will and require all and every the ſaid Officers to ſeiſe, and kill, or cauſe to be ſeiſed and killed, all ſuch Hounds, Spa<g ref="char:EOLhyphen"/>niels,
+Greyhounds, and other Dogs; and ſeiſe and take, or cauſe to be ſiſed and taken, all ſuch Guns, Toyles and other Engines as ſhall
+be kept or uſed within the Foreſts or Places aforeſaid, by any Perſon or Perſons not ſufficiently Authoriſed or qualified by Law to have or uſe
+the ſame.</p>
+            <p>And further alſo, That no Deer be killed but by good and ſufficient Warrant in Writing; and that an Account of the ſaid Warrants,
+and number of Deer killed be yearly at <hi>Hollyrood</hi> Day delivered, or ſent to me by the Chief Officer or Officers of the ſaid Foreſts, Chaſes
+or Parks reſpectively, and by whoſe Warrants the ſame were killed; as alſo an Account of the Stock of the Deer remaining therein. And
+what Timber or Coppices have been lately Cut, and by whoſe Authority.</p>
+            <p>And to prevent any of the ſaid Officers from being impoſed upon, I do hereby publiſh and declare, That the granting of Licenſes and
+Warrants for Hunting, Hawking, or other Licenſes of Pleaſure, or to be Game-keepers within any of the Foreſts or Places aforeſaid, doth
+appertain and belong to the Chief Juſtice in Eyre for the time being, and that all the former Licenſes, for the purpoſes aforeſaid, granted by any
+former Chief Juſtice in Eyre are determined. And I do therefore prohibit all manner of perſons from Hunting, Hawking, Fiſhing or
+Fowling by Virtue or Colour thereof.</p>
+            <p>And I do ſtrictly command and require the Verderers, and other Officers of the Foreſts, to whom it doth belong, That the <hi>Swanimote</hi>
+and other Courts of the Foreſts reſpectively be duly kept and held in their proper times, the omiſſion whereof hath been one of the
+cauſes of the ſaid Miſchiefs, and that due Preſentment of the ſaid Offenders be made thereat, and particularly of Perſons who keep diſor<g ref="char:EOLhyphen"/>derly
+Alehouſes, encourage and harbour Deer-ſtealers, Straglers and Poachers, and Deſtroyers of the Game.</p>
+            <p>And if any Perſon or Perſons ſhall preſume on any pretence to act contrary to this my Prohibition, I do require the ſaid Officers to whom
+it doth belong, reſpectively to preſent and proſecute the ſaid Offenders, and to give me immediate notice of their reſpective Names, Habita<g ref="char:EOLhyphen"/>tions,
+and the nature of their Offences, that they and every of them may be brought to condign puniſhment according to Law.</p>
+            <p>And that no Perſon may pretend ignorance herein; I do hereby will and require the Beadles, and other proper Officers of every of the ſaid
+Foreſts, Chaſes, and Parks, to cauſe due notice hereof to be given to all Perſons concerned, to the end that they may conform themſelves ac<g ref="char:EOLhyphen"/>cordingly,
+as they will anſwer the ſame at their perils.</p>
+            <closer>
+               <dateline>Given under my Hand, and the Seal of my Office, <date>this 19th day of <hi>Auguſt,</hi> in the Ninth Year of the Reign of our Sovereign Lord <hi>William</hi> the Third, by the Grace of God, of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> 
+                     <gap reason="illegible: missing" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>fender of the Faith, &amp;c. Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Dom. 1697.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
